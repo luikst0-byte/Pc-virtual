@@ -1,0 +1,27 @@
+
+# NEXUS CLOUD PC
+
+A virtual desktop project for remote Windows computing.
+
+## Features
+- Remote desktop access
+- Virtual machine support
+- Configurable CPU and RAM
+- Support for Windows and Linux guests
+- Cloud-based computing architecture
+
+## Requirements
+- A Windows-compatible virtualization host
+- A virtual machine with a valid operating system license
+- Remote Desktop or a compatible remote access client
+
+## Setup
+1. Create a virtual machine using Hyper-V or another hypervisor.
+2. Install a supported operating system.
+3. Configure network access securely.
+4. Enable Remote Desktop if supported.
+5. Connect using Windows App with the appropriate
+   remote desktop or cloud PC configuration.
+
+## Project
+NEXUS CLOUD PC
